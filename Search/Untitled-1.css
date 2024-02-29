@@ -1,0 +1,71 @@
+
+    /* @mixin DivStyle($bgcolor, $FontColor, $FontSize, $GridTempCol){
+      display: grid; 
+      grid-template-columns: $GridTempCol;
+      width: 65vw;
+      margin-left: 120px;
+      align-items: center;
+      justify-content: center;
+      background-color: $bgcolor;
+      border: 1px solid black; 
+      padding: 20px;
+      font-size: $FontSize;
+      font-family: Verdana, sans-serif;
+      color: $FontColor;
+      margin: auto;
+    }
+    
+    .gridTwo {
+      @include DivStyle(yellow, #cc00bb, 18px, 1fr 1fr 2fr);
+    } */
+    
+
+
+
+
+    /* .assign-box {
+  display: flex;
+  width: 15vw;
+  background-color: rgb(210, 210, 210);
+  color: rgb(53, 51, 48);
+  text-align: left;
+  padding: 5px;
+  padding-left: 16px;
+  font-size: 16px;
+  font-family: Verdana;
+  font-style: italic;
+  line-height: 2; 
+  border-radius:  15px;
+  margin-left: 130px;
+  margin-top: 120px;
+  margin-bottom: 60px;
+  box-shadow: 5px 2px 8px 2px #e5e5e5; 
+} */
+
+
+
+
+/* .container {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  margin-top: 140px;
+  margin-bottom: 90px;
+}
+.hr-line {
+  width: 75%;
+  border: none;
+  border-top: 1px dashed rgb(185, 185, 185); 
+  margin: 0 auto;
+}
+
+.grid-label {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: rgb(214, 214, 214);
+  background-color: white;
+  padding: 8px;
+} */
